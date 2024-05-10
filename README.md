@@ -1,7 +1,7 @@
 # 💻Online-Study-Platform📖✏️
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/dev-yihyun/Online-Study-Platform/assets/67820737/9dbd81ac-782f-45ee-b57c-4fd3b38fe309">
 </p>
 
 ## [프로젝트 소개]
@@ -201,29 +201,29 @@
   <tr>
     <td>
       <p align="center">
-        <img src="">
+        <img src="https://github.com/dev-yihyun/Online-Study-Platform/assets/67820737/f3e3e6b8-7af8-4a2c-9b84-fb7673f302b6">
       </p>
     </td>
     <td>
       <p align="center">
-        <img src="">
+        <img src="https://github.com/dev-yihyun/Online-Study-Platform/assets/67820737/e0940dea-abca-4bca-bbe3-d58dac1222e9">
       </p>
     </td>
   </tr>
 
   <tr>
     <td>채팅 기능</td>
-    <td> </td>
+    <td> 화면 on/off </td>
   </tr>
   <tr>
     <td>
       <p align="center">
-        <img src="">
+        <img src="https://github.com/dev-yihyun/Online-Study-Platform/assets/67820737/a6398179-9d5b-4163-91cf-343415e6c797">
       </p>
     </td>
     <td>
       <p align="center">
-        <img src="">
+        <img src="https://github.com/dev-yihyun/Online-Study-Platform/assets/67820737/8001c00d-4dae-41ba-9a28-4f92cc1197e4">
       </p>
     </td>
   </tr>
